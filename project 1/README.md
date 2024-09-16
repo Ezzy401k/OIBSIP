@@ -18,5 +18,5 @@ This project involves analyzing a retail sales dataset to perform exploratory da
 - Learn to effectively use data visualization to communicate insights.
 
 ## Tools and Technologies:
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
